@@ -1,8 +1,23 @@
 h1 {
-	font-family:cursive;
+	font-family:Times New Roman;
 	font-size:20;
 	color:#000000;
 }
 body {
-	background-image: url("http://www.starboutiqueltd.co.uk/wp-content/uploads/2011/04/002-subtle-light-pattern-background-texture.jpg");
+	background-image: url("http://drabtofabdesign.com/wp-content/uploads/2012/06/Gray-Background-square-tile-e1339839859848.jpg");
+  font-family:Times New Roman;
 }
+a {
+  color:#000000;
+}
+.button {
+    display: block;
+    height: 20px;
+    width: 100px;
+    background-color: #008080;
+    border: 2px solid;
+    display:inline-block;
+    text-align:center;
+    border-radius:20px;
+}
+
