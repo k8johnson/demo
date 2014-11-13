@@ -14,10 +14,15 @@ a {
     display: block;
     height: 20px;
     width: 100px;
-    background-color: #008080;
+    background-color:#808080;
     border: 2px solid;
     display:inline-block;
     text-align:center;
     border-radius:20px;
+    background: linear-gradient(top, #34696f, #2f5f63);
+    border-radius: 20px;
+    box-shadow: 0 4px 0 #000000;
 }
-
+a.button:hover {
+    background: #9ACD32;
+}
