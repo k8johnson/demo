@@ -49,10 +49,11 @@ h1 {
     box-shadow: 0 4px 0 #000000;
  }
 
-a.button:hover {
+a.button:hover,.active {
   	background:#ff0066;
 }
 
 .container {
   	text-align:center;
 }
+
