@@ -1,16 +1,15 @@
-h1 {
-	font-family:Times New Roman;
-	font-size:20;
-	color:#000000;
-}
 body {
-	background-image: url("http://drabtofabdesign.com/wp-content/uploads/2012/06/Gray-Background-square-tile-e1339839859848.jpg");
+  background-image: url("http://drabtofabdesign.com/wp-content/uploads/2012/06/Gray-Background-square-tile-e1339839859848.jpg");
   font-family:Times New Roman;
+  padding:10px;
 }
+
 a {
   color:#000000;
+  text-decoration:none;
 }
-.button {
+
+nav a.button {
     height: 20px;
     width: 100px;
     background-color:#808080;
@@ -18,10 +17,23 @@ a {
     display:inline-block;
     text-align:center;
     border-radius:20px;
-    background: linear-gradient(top, #34696f, #2f5f63);
-    border-radius: 20px;
     box-shadow: 0 4px 0 #000000;
+    margin:auto;
 }
-a.button:hover {
-    background: #9ACD32;
+
+nav a.button:hover {
+    background: #ff0066;
 }
+
+nav {
+    width:450px;
+    margin:auto;
+}
+
+h1 {
+  	color:#ff0066;
+  	text-align:center;
+  	text-shadow: 3px 3px 3px #000000;
+  	font-size:60px;
+}
+
