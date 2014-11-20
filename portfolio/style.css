@@ -1,5 +1,5 @@
 body {
-  background-image: url("http://drabtofabdesign.com/wp-content/uploads/2012/06/Gray-Background-square-tile-e1339839859848.jpg");
+	background-image: url("http://drabtofabdesign.com/wp-content/uploads/2012/06/Gray-Background-square-tile-e1339839859848.jpg");
   font-family:Times New Roman;
   padding:10px;
 }
@@ -37,3 +37,18 @@ h1 {
   	font-size:60px;
 }
 
+.button {
+  	height: 20px;
+    width: 100px;
+    background-color:#808080;
+    border: 2px solid;
+    display:inline-block;
+    text-align:center;
+    border-radius:20px;
+    box-shadow: 0 4px 0 #000000;
+    margin:auto;
+}
+
+a.button:hover {
+  	background:#ff0066;
+}
