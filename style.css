@@ -2,12 +2,12 @@ body {
 	background-image: url("http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=10738860");
 	}
 footer {
+	font-family: Avant Garde; Times New Roman;
 	text-align: center;
 	}
 h1 {
 	color:#000000;
 	text-align: center;
-	<link href='http://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>;
 	}
 	
 h2 {
