@@ -1,12 +1,12 @@
 body {
 	font-family: Times New Roman;
 	background-image: url("http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=10738860");
-	}
+	<link href='http://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+}
 footer {
 	text-align: center;
 	}
 h1 {
-	font-size:32px;
 	color:#000000;
 	text-align: center;
 	}
