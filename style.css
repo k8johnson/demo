@@ -5,30 +5,30 @@ body {
 	
 h1 {
 	font-size:32px;
-	color:#ffffff;
+	color:#000000;
 	}
 	
 h2 {
 	font-size:28px;
-	color:#ffffff;
+	color:#000000;
 	background-color:#222222;
 	}
 h3 {
 	font-size:24px;
-	color:#ffffff;
+	color:#000000;
 	background-color:#222222;
 	}
 h4, h5, h6 {
 	font-size:18px;
-	color:#ffffff;
+	color:#000000;
 	background-color:#222222;
 	}
 
 a {
 	text-decoration:none;
-	color:#ffffff;
+	color:#000000;
 	}
 	
 a:hover {
-	color:#ffffff;
+	color:#000000;
 	}
